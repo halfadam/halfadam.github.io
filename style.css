@@ -1,6 +1,8 @@
 body {
-	font-family: 'Martel', serif;;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #585656;
 	background-color: #e4e4e4;
+}
+h1 {
 	text-align: center;
 }
